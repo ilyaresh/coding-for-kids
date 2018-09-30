@@ -78,3 +78,7 @@ This one is not for small kids, but for ones that already have some coding skill
 Platforms and Price:
 
 - [Online](https://www.codingame.com/start) - Free
+
+
+
+*Photo by [LuidmilaKot](https://pixabay.com/en/users/LuidmilaKot-2358662/) from [Pixels.com](https://www.pexels.com)*
