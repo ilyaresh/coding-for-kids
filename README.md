@@ -71,6 +71,23 @@ Platforms and Price:
 
 - [Online](https://www.playcodemonkey.com/) - Paid with Free 14 days trial
 
+### [Flexbox Froggy](http://flexboxfroggy.com/)
+
+Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
+
+Platforms and Price:
+
+- [Online](http://flexboxfroggy.com/) - Free
+
+
+### [Grid Garden](https://cssgridgarden.com/)
+
+Grid Garden, a game where you write CSS code to grow your carrot garden! 
+
+Platforms and Price:
+
+- [Online](https://cssgridgarden.com/) - Free
+
 ### [CodinGame](https://www.codingame.com/start)
 
 This one is not for small kids, but for ones that already have some coding skills. CodinGame offers up games to learn more than 25 programming languages, including JavaScript, Ruby, and PHP. One of the great things about CodinGame is that you can play with friends or colleagues, and also enter international coding competitions.
