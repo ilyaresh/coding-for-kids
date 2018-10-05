@@ -140,26 +140,33 @@ Platforms and Price:
 
 - [Online](https://checkio.org/) - Free
 
-### [VIM Adventures]()
+### [VIM Adventures](https://vim-adventures.com/)
 
-
-Platforms and Price:
-
-- [Online]() - Free
-
-### [Cyber Dojo]()
-
+VIM as a de-facto editor on most linux system and it has a lot of usefull commands. VIM Adventures teaches you how to use these.
 
 Platforms and Price:
 
-- [Online]() - Free
+- [Online](https://vim-adventures.com/) - Free (first three levels)or $25 for the full game.
 
-### [Elevator Saga]()
+### [Cyber Dojo](http://www.cyber-dojo.org/dojo/index/)
 
+Cyber Dojo has many practise exercises for more than 15 languages including C, C++, Java, JavaScript, Python, Ruby and more. It is for practising your skills (which you should already have:-)) and not learning form scratch.
 
 Platforms and Price:
 
-- [Online]() - Free
+- [Online](http://www.cyber-dojo.org/dojo/index/) - Free
+
+### [Elevator Saga](http://play.elevatorsaga.com/)
+This is a game of programming!
+Your task is to program the movement of elevators, by writing a program in JavaScript.
+
+The goal is to transport people in an efficient manner.
+Depending on how well you do it, you can progress through the ever more difficult challenges.
+Only the very best programs will be able to complete all the challenges.
+
+Platforms and Price:
+
+- [Online](http://play.elevatorsaga.com/) - Free
 
 ### [CodinGame](https://www.codingame.com/start)
 
