@@ -88,6 +88,86 @@ Platforms and Price:
 
 - [Online](https://cssgridgarden.com/) - Free
 
+### [Flexbox Defence](http://www.flexboxdefense.com/)
+
+Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!
+
+Platforms and Price:
+
+- [Online](http://www.flexboxdefense.com/) - Free
+
+### [Code Combat](https://codecombat.com)
+CodeCombat is aimed at teachers and students, but anyone can play. Courses are available in JavaScript and Python. Web Development courses utilize HTML, CSS, and jQuery.
+
+Platforms and Price:
+
+- [Online](https://codecombat.com/play) - Free
+
+### [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)
+"A triumphant quest of adventure, love & destiny 
+all within a few lines of code". This game teaches Ruby. You do need to login with your Facebook account to save the progress.
+
+Platforms and Price:
+
+- [Online](https://www.bloc.io/ruby-warrior#/) - Free
+
+### [Untrusted](https://alexnisnevich.github.io/untrusted/)
+Untrusted is a meta-JavaScript adventure game. The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you. It is definitely not for beginners
+
+Platforms and Price:
+
+- [Online](https://alexnisnevich.github.io/untrusted/) - Free
+
+### [Code Hunt]()
+
+
+Platforms and Price:
+
+- [Online]() - Free
+
+### [Robocode](https://robocode.sourceforge.io/)
+Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen.
+
+
+Platforms and Price:
+
+- [Offline Java or .Net](https://sourceforge.net/projects/robocode/files/robocode/1.9.3.3/) - Free
+
+### [CheckIO](https://checkio.org/)
+Build your base and defeat your enemies through a variety of coding activities starting from the basic level upward to advanced. You can do the activities in either Python or JavaScript. Not for small kids as it requires some basic coding knowledge and reading mission statements.
+
+Platforms and Price:
+
+- [Online](https://checkio.org/) - Free
+
+### [VIM Adventures](https://vim-adventures.com/)
+
+VIM as a de-facto editor on most linux system and it has a lot of usefull commands. VIM Adventures teaches you how to use these.
+
+Platforms and Price:
+
+- [Online](https://vim-adventures.com/) - Free (first three levels)or $25 for the full game.
+
+### [Cyber Dojo](http://www.cyber-dojo.org/dojo/index/)
+
+Cyber Dojo has many practise exercises for more than 15 languages including C, C++, Java, JavaScript, Python, Ruby and more. It is for practising your skills (which you should already have:-)) and not learning form scratch.
+
+Platforms and Price:
+
+- [Online](http://www.cyber-dojo.org/dojo/index/) - Free
+
+### [Elevator Saga](http://play.elevatorsaga.com/)
+This is a game of programming!
+Your task is to program the movement of elevators, by writing a program in JavaScript.
+
+The goal is to transport people in an efficient manner.
+Depending on how well you do it, you can progress through the ever more difficult challenges.
+Only the very best programs will be able to complete all the challenges.
+
+Platforms and Price:
+
+- [Online](http://play.elevatorsaga.com/) - Free
+
 ### [CodinGame](https://www.codingame.com/start)
 
 This one is not for small kids, but for ones that already have some coding skills. CodinGame offers up games to learn more than 25 programming languages, including JavaScript, Ruby, and PHP. One of the great things about CodinGame is that you can play with friends or colleagues, and also enter international coding competitions.
