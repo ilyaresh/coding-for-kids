@@ -168,6 +168,59 @@ Platforms and Price:
 
 - [Online](http://play.elevatorsaga.com/) - Free
 
+### [Ligthbot : Code Hour](http://lightbot.com/)
+Lightbot is a programming puzzle game. The game focuses on helping the robot light up all the blue tiles on a 3D grid.
+This is the Free version created for the Code Hour.
+
+Platforms and Price:
+
+- [Online](http://lightbot.com/flash.html) - Free
+- [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc) - Free
+- [iOS](https://itunes.apple.com/us/app/lightbot-one-hour-coding/id873943739) - Free
+
+### [Lightbot Jr : Coding Puzzles]
+More coding puzzles from the creators of "Ligthbot : Code Hour".
+This version is for 4-8 years old kids.
+Platforms and Price:
+
+- [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbotjr) - $3.39
+- [iOS](https://itunes.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629?mt=8) - $2.99
+- [Kindle](https://www.amazon.com/Lightbot-Inc-JR-Coding-Puzzles/dp/B00LW65HN6) - $2.99
+
+### [Lightbot : Programming Puzzles]
+More coding puzzles from the creators of "Ligthbot : Code Hour".
+This version is for 9+ years old kids.
+Platforms and Price:
+
+- [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot) - $3.39
+- [iOS](https://itunes.apple.com/us/app/light-bot/id657638474) - $2.99
+- [Kindle](https://www.amazon.com/Lightbot-Inc-Programming-Puzzles/dp/B00LVDC27Y) - $2.99
+- [Mac](https://itunes.apple.com/us/app/lightbot-programming-puzzles/id924624572) - $4.99
+- [Windows](https://www.microsoft.com/en-au/p/lightbot/9wzdncrdlwrp?rtc=1#activetab=pivot:overviewtab) - $6.09
+
+### [SpriteBox : Code Hour](http://spritebox.com/hour.html)
+From the creators of Lightbot, SpriteBox is a unique puzzle-platformer; a mix of exploration and learning to code. 
+By giving Sprite programs of instructions to follow, you can advance through unique worlds and help free Sprite's bottled-up friends.
+During your adventure, you'll learn to sequence commands, change parameters, debug faulty logic, and use simple to complex loops to solve problems. 
+Once comfortable with Icon-based coding, you can choose to play SpriteBox using real Java syntax. 
+
+This is the Free version created for the Code Hour.
+
+Platforms and Price:
+
+- [Online](http://spritebox.com/flash.html) - Free
+- [Android](https://play.google.com/store/apps/details?id=com.lightbot.SpriteBoxCoding) - Free
+- [iOS](https://itunes.apple.com/ca/app/spritebox-code-hour/id1161515477) - Free
+
+### [SpriteBox Coding](http://spritebox.com/hour.html)
+From the creators of Lightbot, SpriteBox Coding is a full-blown adventure game that gets you coding.
+Start from scratch by solving coding puzzles using icons. Over time, icons will give way to textual commands. In no time, you'll be solving puzzles in a real programming language!
+
+Platforms and Price:
+
+- [Android](https://play.google.com/store/apps/details?id=com.spritebox.coding) - $7.99
+- [iOS](https://itunes.apple.com/us/app/light-bot/id1270538471) - $4.99
+
 ### [CodinGame](https://www.codingame.com/start)
 
 This one is not for small kids, but for ones that already have some coding skills. CodinGame offers up games to learn more than 25 programming languages, including JavaScript, Ruby, and PHP. One of the great things about CodinGame is that you can play with friends or colleagues, and also enter international coding competitions.
