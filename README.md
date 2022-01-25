@@ -1,7 +1,3 @@
-
-### This was moved to [KidsCode.space](http://kidscode.space)
-
-
 Hi, I have a 7 years old son and wanted to introduce him to coding. So I have started to collect information about Apps, Sites and Games that can teach kids to code or introduce them to coding mindset. Below are the ones that I've found. Please help me and others by commenting [here](http://isbyr.com/sites-and-games-that-teach-kids-to-code) or contributing in the [GitHub repository](https://github.com/ilyaresh/coding-for-kids) and recommending the ones that you are aware of and have used. <!--more-->
 
 ### [ScratchJr](https://www.scratchjr.org/)
