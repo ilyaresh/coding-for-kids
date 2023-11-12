@@ -249,3 +249,11 @@ This one is not for small kids, but for ones that already have some coding skill
 Platforms and Price:
 
 - [Online](https://www.codingame.com/start) - Free
+
+## [CodeKidz](https://codekidz.ai)
+
+CodeKidz is an AI-powered, interactive programming platform for kids aged 7-15. It offers Python coding lessons through storytelling and gamified experiences, with real-time code execution. The platform features an AI teacher that provides personalized coaching, and rewards students with digital badges for their achievements. It promotes active learning with its voice-enabled AI, facilitating an engaging and fun learning environment.
+
+Platforms and Price:
+
+- [Online](https://codekidz.ai) - Free trial for the first two units, then $10 per month.
